@@ -1,6 +1,5 @@
 import React from 'react';
 import { Button, Modal, Stack } from 'react-bootstrap';
-import { useRef } from 'react';
 import { uncategorizedId, useBudgets } from '../contexts/BudgetContext';
 import { currencyFormat } from '../utils';
 
